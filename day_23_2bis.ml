@@ -1,5 +1,8 @@
-(* Day 21 *)
+(* Day 23 *)
 (* On réarrange des crevettes. *)
+
+(* Version avec une heuristique. On a donc du A*
+   et non du "simple" Dijkstra. *)
 
 (* Leftist heaps *)
 

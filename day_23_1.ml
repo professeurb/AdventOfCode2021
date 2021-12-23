@@ -1,4 +1,4 @@
-(* Day 21 *)
+(* Day 23 *)
 (* On réarrange des crevettes. *)
 
 (* Leftist heaps *)
